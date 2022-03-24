@@ -1,0 +1,12 @@
+10 10
+##########
+#@IIIIIII#
+#* #  #*I#
+#I K%IKI*#
+#*#K*I#II#
+#I I#I I*#
+#I#III#I*#
+#*# #K#II#
+#II*I*I*T#
+#DDDDDDDD#
+

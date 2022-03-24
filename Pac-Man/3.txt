@@ -1,0 +1,22 @@
+20 20
+#########II#########
+#****S*************#
+#******************#
+#******************#
+#******************#
+#**DIDDDDIIDDDDID**#
+#**DIIIIIIIIIIIID**#
+#**DIIIIIIIIIIIID**#
+#**DIIEEEIEEEEIID**#
+#**DIIEKKKKKKEIID**#
+I**DIIEKKKKKKEIID**I
+I**DIIEKKKKKKEIID**I
+I**DIIEK## #KEIID**I
+#**IIIIK    KIIII**#
+#**IIIIK#%T#KIIII**#
+#**DIIEK#GT#KEIID**#
+#**DIIEK## #KEIID**#
+#**DIIEKKKKKKEIID**#
+#**DIIEKKKKKKEIID**#
+#########II#########
+
